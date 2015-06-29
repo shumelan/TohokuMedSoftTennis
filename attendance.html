@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            .head{font-size:14px;font-family:"ＭＳ ゴシック",sans-serif;}
+            table, tbody, tfoot,thead,tr,th,td{background: none;margin: 0;padding:0;border:0;font-size:12px;font:inherit;vertical-align:middle;}
+            table{border-collapse:collapse;border-spacing:0;color:#333;font-family:"ＭＳ ゴシック",sans-serif; width:100%;border-collapse:collapse;border-spacing:0;}
+            td,th{border:1px solid transparent;height:40px;transition:all 0.3s;}
+            th{background: #DFDFDF;font-weight: bold;}
+            td{background: #FAFAFA;text-align: center;}
+            .data tr:nth-child(even) td {background: #F1F1F1;}
+            .data tr:nth-child(odd) td {background: #FEFEFE;}
+            .data tfoot tr td{text-align: left;}
+            .sign td{border-bottom: 1px solid #333333;background: white; text-align: left; font-size: 14px;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="head">
+            <p>回答, ありがとうございます.</p>
+            <p>変更があれば, <a href="url">再度送信</a>してください.</p>
+        </div><br/>
+        <div  class="data">
+            <table>
+                <thead>
+                    <tr>
+                        <th colspan=2>回答</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <td colspan=2>送信日時: '+time+'</td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                        <td>'+col_name+':</td>
+                        <td>'+col_value+'</td>
+                    </tr>
+                    <tr>
+                        <td>'+col_name+':</td>
+                        <td>'+col_value+'</td>
+                    </tr>
+                </tbody>
+            </table><br/>
+        </div>
+        <div class="sign">
+            <table class="sign">
+                <tbody>
+                    <tr>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><p>東北大学医学部ソフトテニス部</p><a href="mailto:tohokumedsofttennis2014@gmail.com">tohokumedsofttennis2014@gmail.com</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
