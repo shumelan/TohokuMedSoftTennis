@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!--<link rel="icon" href="../../favicon.ico">-->
+
+    <title>NanteTube</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--<script src="../../assets/js/ie-emulation-modes-warning.js"></script>-->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+      <div class="container">
+          <div class="header"><img src="https://googledrive.com/host/0B-_Hpdri56S1OGdwLVZya3RKQnc"/></div>
+          
+          <div class="nav">
+              <ul class="nav nav-tabs">
+                  <li role="presentation" class="dropdown">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                          <span class="caret"></span>
+                      </a>
+                      <ul class="dropdown-menu">
+                          <li>2014</li>
+                          <li><a href=#>東医体</a></li>
+                          <li>2015</li>
+                          <li><a href=#>北医体</a></li>
+                      </ul>
+                  </li>
+              </ul>
+          </div>
+          <div class="video">
+              <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/9uZDL6H14pY" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                  <div class="col-md-6 col-sm-6">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/hSreaoxWaus" frameborder="0" allowfullscreen></iframe>
+                    
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-6 col-sm-6 col-xs-12">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/ewybZoWVghY" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                  <div class="col-md-6 col-sm-6 col-xs-12">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/L5yULyEZiGo" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                 </div>
+              <div class="row">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/LLvVGTrRA18" frameborder="0" allowfullscreen></iframe>
+                  <div class="col-md-6 col-sm-6 col-xs-12">
+                      <iframe width="420" height="315" src="https://www.youtube.com/embed/LXZlKN_5OTE" frameborder="0" allowfullscreen></iframe>
+                  </div>
+              </div>
+              <div class="row">
+                  
+                  <div class="col-md-6 col-sm-6 col-xs-12"></div>
+              </div>
+          </div>
+      </div>
+      
+  </body>
+</html>
